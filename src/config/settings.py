@@ -1,7 +1,7 @@
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
-    COSMOS_ENDPOINT: str = "https://farahdb-global.documents.azure.com:443/"
+    COSMOS_ENDPOINT: str = "https://your_cosmos_account.documents.azure.com"
     COSMOS_KEY: str
     DATABASE_NAME: str = "ai-demo-db"
     CONTAINER_NAME: str = "ai-vectors"
