@@ -136,12 +136,7 @@ Example search query
 }
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Hugging Face for the transformer models
 - Azure Cosmos DB for vector storage capabilities
